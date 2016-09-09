@@ -68,3 +68,16 @@ Mision
  website
  	behaviors
  		comportamiento de las persoans
+
+
+Estudiar 
+	share of voice es:
+		cuadno se a compartido la voz.
+				El Share of Voice es el nivel de participación de un actor (una marca, una empresa, un usuario, etc.) en un canal determinado
+	las mejore estrategias digitrales
+		.....
+	por lo general antes de ocmprar aunncios sobre Facebook
+		planear finanzas
+	la idea de los a/b test es
+		El A/B Test consiste en desarrollar y lanzar dos versiones de un mismo elemento y medir cuál funciona mejor. Es una prueba que nos sirve para optimizar una estrategia de email marketing o mejorar la efectividad de una landing page.
+	congruente con segementar mensajes pro pais o regin seria
